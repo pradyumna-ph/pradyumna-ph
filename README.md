@@ -1,6 +1,10 @@
-- 👋 Hi, I’m Pradyumna Hegde => @pradyumna-ph
-- 👀 I’m interested in python-django, fullstack development, cloud, Linux.
-- 🌱 I’m currently learning Fullstack dev with django and discovering google cloud & Kubernetes.
+- 👋 Hi, I’m Pradyumna Hegde.
+- 
+- 👀 I’m interested in fullstack development, python, django, cloud, devops.
+- 
+- 🌱 I’m currently learning Fullstack and Open source development and discovering cloud & Kubernetes.
+- 
+- 📫 You can reach me through [@Pradyumna Hegde](https://twitter.com/pradcode).
 
 
 <!---
