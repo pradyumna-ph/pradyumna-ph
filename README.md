@@ -4,7 +4,7 @@
 
  🌱 I’m currently learning Fullstack and Open source development and discovering cloud & Kubernetes.
 
- 📫 You can reach me through [@Pradyumna Hegde](https://twitter.com/pradcode).
+ 📫 You can reach me through Twitter [@Pradyumna Hegde](https://twitter.com/pradcode).
 
 
 <!---
