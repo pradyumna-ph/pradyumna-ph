@@ -2,7 +2,7 @@
 
  👀 I’m interested in fullstack development, python, django, cloud, devops.
 
- 🌱 I’m currently learning Fullstack and Open source development and discovering cloud & Kubernetes.
+ 🌱 I’m currently learning Fullstack, Open source development and discovering google cloud.
 
  📫 You can reach me through Twitter [@Pradyumna Hegde](https://twitter.com/pradcode).
 
